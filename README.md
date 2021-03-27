@@ -1,5 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJANG-hyeonjun&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
 
 <!--
 **JANG-hyeonjun/JANG-hyeonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
