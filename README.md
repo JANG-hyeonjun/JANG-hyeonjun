@@ -58,6 +58,9 @@ This MY project during undergraduate life
 
 [![Solved.ac. stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstkek0907)](https://solved.ac/cjstkek0907)
 
+## 📬ConTact Me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjstkek0907@gmail.com)](mailto:cjstkek0907@gmail.com) 
+
 <!--
 
  
