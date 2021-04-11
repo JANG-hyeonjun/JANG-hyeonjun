@@ -41,6 +41,7 @@ This MY project during undergraduate life
 
 | Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
+|winter semester field pratice in Infinite Healthcare Co., Ltd.| 2021.01.04 ~ 2021.02.26 | intern | Tesing a prgram and develop the upload and download Image program and web viewer
 |Data structure Training assistant | 2020.9~2020.12 | Training assistant | study a stack & queue & tree & sort & grapgh basic 
 | Introduction to Computers and Practice Training assistant | 2020.3~2020.8 | Training assistant | study a c language (pointer and string)
 | Eunpyeong Catholic St. Mary's Hospital Artificial Intelligence Lab Intern| 2020.01~2020.02 | intern | with MATLAB working data preprocessing
