@@ -42,8 +42,8 @@ This MY project during undergraduate life
 | Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
 |  Data structure Training assistant | 2020.9~2020.12 | Training assistant | study a stack & queue & tree & sort & grapgh basic 
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Introduction to Computers and Practice Training assistant | 2020.3~2020.8 | Training assistant | study a c language (pointer and string)
+| Eunpyeong Catholic St. Mary's Hospital Artificial Intelligence Lab Intern| [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
