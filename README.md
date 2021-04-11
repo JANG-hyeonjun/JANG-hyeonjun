@@ -41,12 +41,13 @@ This MY project during undergraduate life
 
 | Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
-|  Data structure Training assistant | 2020.9~2020.12 | Training assistant | study a stack & queue & tree & sort & grapgh basic 
+
+|Data structure Training assistant | 2020.9~2020.12 | Training assistant | study a stack & queue & tree & sort & grapgh basic 
 | Introduction to Computers and Practice Training assistant | 2020.3~2020.8 | Training assistant | study a c language (pointer and string)
-| Eunpyeong Catholic St. Mary's Hospital Artificial Intelligence Lab Intern| [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Eunpyeong Catholic St. Mary's Hospital Artificial Intelligence Lab Intern| 2020.01~2020.02 | intern | with MATLAB working data preprocessing
+|Computer programming and pratice Training assistant | 2017.9~2018.2 | Trainging assistant | study a c basic (while,for) , (printf format)
+| Arduino project| 2017.9~2017.12 | Coding Software| Children aged 0-5 can live safely Carrying out a project to make a usable toy 
+| Rocket Project intern | 2016.12 ~ 2017.1 | intern | Parsing EMR data and performing preprocessing using Excel | 
 
 ## git stat
 
