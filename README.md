@@ -35,13 +35,13 @@ My interest is Front-end Web Developer and C/C++ Programming
 - 🖥 and Regarding Capstone, we are developing a pathology web viewer.
 - 😀 and I'm Senior in HUFS biomedical engineering 
 
-## PROJECT
+## PROJECT & Internship & Activity
 
 This MY project during undergraduate life 
 
-| project Name | Time |Role|Description|
+| Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+|  Data structure Training assistant | 2020.9~2020.12 | Training assistant | study a stack & queue & tree & sort & grapgh basic 
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
