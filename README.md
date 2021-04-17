@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Arduino-005571?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/github-005571?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/git-005571?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
 </p>
 
