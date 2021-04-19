@@ -57,7 +57,6 @@ This MY project during undergraduate life
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANG-hyeonjun&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Algorithm
 [![Solved.ac. stats](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjstkek0907)](https://solved.ac/cjstkek0907)
-
 [![Solved.ac. stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstkek0907)](https://solved.ac/cjstkek0907)
 
 ## 📬ConTact Me
