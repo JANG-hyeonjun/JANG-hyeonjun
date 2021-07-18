@@ -43,6 +43,7 @@ This MY project during undergraduate life
 
 | Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
+|OpenSource S/W android App Team project|2021.04.01~ 2021.6.20|Make Progress Activity|Make the progress Activty in Andorid app , app name is healfit and it is registred in Google store  
 |winter semester field pratice in Infinite Healthcare Co., Ltd.| 2021.01.04 ~ 2021.02.26 | intern | Tesing a prgram and develop the upload and download Image program and web viewer
 |Data structure Training assistant | 2020.9~2020.12 | Staff Assistant | study a stack & queue & tree & sort & graph basic 
 | Introduction to Computers and Practice Staff Assistant | 2020.3~2020.8 | Staff Assistant | study a c language (pointer and string)
