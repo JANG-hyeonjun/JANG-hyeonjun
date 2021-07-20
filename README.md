@@ -31,7 +31,7 @@
 </p>
 
 
-My interest is Front-end Web Developer and C/C++ Programming
+My interest is Full-Stack Web Developer and C/C++ Programming
 
 - 💻 Recently studying systems, programming and algorithms
 - 🖥 and Regarding Capstone, we are developing a pathology web viewer.
