@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/Arduino-005571?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/git-005571?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/QT-005571?style=flat-square&logo=QT&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/QT-6DB33F?style=flat-square&logo=QT&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/VTK-007396?style=flat-square&logo=VTK&logoColor=white"/></a>&nbsp
 </p>
 
 
