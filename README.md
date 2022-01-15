@@ -45,14 +45,14 @@ This MY project during undergraduate life
 
 | Activty Name | Time |Role|Description|
 | ------ | ------ |------|--------|
-|Summer semester field in Osstem Implant | 2021.07.01~2021.08.31 | intern | Training Roi(Region of interest)detection model which is finding cella and Research the CNN model
+|Summer semester field in Osstem Implant | 2021.07.01 ~ 2021.08.31 | intern | Training Roi(Region of interest)detection model which is finding cella and Research the CNN model
 |capstone project Histopathological cancer site visualization|2021.03.02 ~ 2021.06.25|Make the platform Full stack|Make the Full stack web application for help Histopathological cancer site visulization make Login function with database & make CRUD function for manage slide image &conncection with AI Using NodeJS
 |OpenSource S/W android App Team project|2021.04.01~ 2021.6.20|Make Progress Activity|Make the progress Activty in Andorid app , app name is healfit and it is registred in Google store  
 |winter semester field pratice in Infinite Healthcare Co., Ltd.| 2021.01.04 ~ 2021.02.26 | intern | Tesing a prgram and develop the upload and download Image program and web viewer
 |Data structure Training assistant | 2020.9~2020.12 | Staff Assistant | study a stack & queue & tree & sort & graph basic 
-| Introduction to Computers and Practice Staff Assistant | 2020.3~2020.8 | Staff Assistant | study a c language (pointer and string)
+| Introduction to Computers and Practice Staff Assistant | 2020.3 ~ 2020.8 | Staff Assistant | study a c language (pointer and string)
 | Eunpyeong Catholic St. Mary's Hospital Artificial Intelligence Lab Intern| 2020.01~2020.02 | intern | with MATLAB working data preprocessing
-|Computer programming and pratice Staff Assistant| 2017.9~2018.2 | Staff Assistant | study a c basic (while,for) , (printf format)
+|Computer programming and pratice Staff Assistant| 2017.9 ~ 2018.2 | Staff Assistant | study a c basic (while,for) , (printf format)
 | Arduino project| 2017.9~2017.12 | Coding Software| Children aged 0-5 can live safely Carrying out a project to make a usable toy 
 | Rocket Project intern | 2016.12 ~ 2017.1 | intern | Parsing EMR data and performing preprocessing using Excel | 
 
