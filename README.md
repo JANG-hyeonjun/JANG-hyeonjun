@@ -62,7 +62,7 @@ This MY project during undergraduate life
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JANG-hyeonjun)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANG-hyeonjun&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Algorithm
-🔥매일 한문제 풀기 도전중[GO](https://github.com/JANG-hyeonjun/Algorithm_study)<br>
+
  [![Solved.ac. stats](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjstkek0907)](https://solved.ac/cjstkek0907)
 
  [![Solved.ac. stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstkek0907)](https://solved.ac/cjstkek0907)
@@ -71,7 +71,7 @@ This MY project during undergraduate life
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjstkek0907@gmail.com)](mailto:cjstkek0907@gmail.com) 
 
 <!--
-
+🔥매일 한문제 풀기 도전중[GO](https://github.com/JANG-hyeonjun/Algorithm_study)<br>
  
 
 **JANG-hyeonjun/JANG-hyeonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
